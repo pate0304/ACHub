@@ -4,55 +4,63 @@
         "shortname": "main-desk",
         "photo":"main-desk",
         "description":"Main location in E-217.",
-        "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/ac-hub-reception-1/"
+        "link":"http://fluidsurveys.com/s/ACHubReception-Sept2017/"
 
     },
     {
-        "name":"Phone calls at AC Hub Reception",
+        "name":"Phone Calls at AC Hub Reception",
          "shortname": "phone",
         "photo":"phone",
         "description":"This survey is for the phone calls received at the AC Hub Reception. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/phone-calls-ac-hub-reception-1/"
+         "link":"http://fluidsurveys.com/s/PhoneCalls-ACHubReception/"
 
     },
      {
         "name":"AC Hub Satellite",
          "shortname": "satellite-desk",
          "photo":"satellite-desk",
-        "description":"Desk located near the library in C building. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/ac-hub-satellite-1/"
+        "description":"Desk located by the Woodroffe Avenue overpass in ACCE Building (next to Baseline Station).",
+         "link":"http://fluidsurveys.com/s/ACHubSatellite-Sept2017/"
 
     },
     {
-        "name":"AC Hub Mobile A",
-        "shortname": "mobileA",
+        "name":"AC Hub Mobile 1",
+        "shortname": "mobile1",
         "photo":"mobile",
         "description":"Desk located in CA building next to baseline station. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/mobile-a-1/"
+         "link":"http://fluidsurveys.com/s/ACHubMobile1-Sept2017/"
 
     },
     {
-        "name":"AC Hub Mobile B",
-        "shortname": "mobileB",
+        "name":"AC Hub Mobile 2",
+        "shortname": "mobile2",
         "photo":"mobile",
         "description":"Desk located in 4 corners. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/mobile-b-1/"
+         "link":"http://fluidsurveys.com/s/ACHubMobile2-Sept2017/"
 
     },
     {
-        "name":"AC Hub Mobile C",
-        "shortname": "mobileC",
+        "name":"AC Hub Mobile 3",
+        "shortname": "mobile3",
         "photo":"mobile",
         "description":"Desk located in position to be decided. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/mobile-c-1/"
+         "link":"http://fluidsurveys.com/s/ACHubMobile3-Sept2017/"
 
     },
     {
-        "name":"AC Hub Mobile D",
-        "shortname": "mobileD",
+        "name":"AC Hub Mobile 4",
+        "shortname": "mobile4",
         "photo":"mobile",
         "description":"Desk located in position to be decided. ",
-         "link":"http://fluidsurveys.com/surveys/algonquin-college-ssc/mobile-d/"
+         "link":"http://fluidsurveys.com/s/ACHubMobile4-Sept2017/"
+
+    },
+    {
+        "name":"AC Hub Volunteer Centre",
+        "shortname": "volunteer-centre",
+        "photo":"Volunteer-Database",
+        "description":"Desk located in position to be decided. ",
+         "link":"http://fluidsurveys.com/s/ACHubVolunteerCentre-Sept2017/"
 
     }
 
